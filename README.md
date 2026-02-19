@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben [Rumeysa Güney]</h1>
+<h1 align="center">Merhaba 👋, Ben Rumeysa Güney</h1>
 <h3 align="center">Building scalable systems & Full-Stack Development | BeyondSyntax</h3>
 
 <p align="left">
@@ -9,8 +9,8 @@
 - 🌱 **C#** ile temelimi sağlamlaştırırken, **JavaScript** ve **Python** ile yetenek yelpazemi genişletiyorum.
 - 🛡️ Aynı zamanda **Siber Güvenlik** alanındaki gelişmeleri ve en iyi güvenlik pratiklerini yakından takip ediyorum.
 - 💬 Bana **C#, .NET, JS veya Python** projeleri hakkında sorular sorabilirsiniz.
-- 📫 İletişim: **[rumeysa.guneyyy@gmail.com]**
-- 📷 Tasarım ve kodlama serüvenim için Instagram: **[beyondyntax.io](https://www.instagram.com/beyondsyntax.io/)**
+- 📫 İletişim: **rumeysa.guneyyy@gmail.com**
+- 📷 Tasarım ve kodlama serüvenim için Instagram: **beyondyntax.io(https://www.instagram.com/beyondsyntax.io/)**
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
@@ -30,5 +30,5 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[rumeysaguneyyy-ctrl]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumeysaguneyyy-ctrl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" />
 </p>
